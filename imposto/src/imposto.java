@@ -24,7 +24,7 @@ public class imposto {
         rendaCapital = anualGanhoCapital / 12;
 
         if(rendaMensal <= 3000.00){
-            impostoSalario = 0.00; //Isento
+            impostoSalario = 0.00;
         }
 
     }
